@@ -14,5 +14,4 @@ Bienvenue dans la documentation officielle de **DiscordR34App**. Cette applicati
 
 ***
 
-➡️ _Passe à la page suivante pour créer ton application sur Discord._
-
+<p align="center"><a href="code-source-and-github.md" class="button secondary">NEXT PAGE</a></p>

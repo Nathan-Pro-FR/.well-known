@@ -66,3 +66,5 @@ Nous utilisons **Render** pour faire tourner le code, combiné à **UptimeRobot*
 {% endtabs %}
 
 ***
+
+<p align="center"><a href="guide-des-commandes.md" class="button secondary">NEXT PAGE</a></p>

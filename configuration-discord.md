@@ -55,3 +55,6 @@ Ne donne jamais, au grand jamais, ton `DISCORD_BOT_TOKEN` à quelqu'un et ne le 
 {% endstep %}
 {% endstepper %}
 
+***
+
+<p align="center"><a href="hebergement-and-uptime.md" class="button secondary">NEXT PAGE</a></p>

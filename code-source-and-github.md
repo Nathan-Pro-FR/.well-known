@@ -25,3 +25,5 @@ git clone https://github.com/Nathan-Pro-FR/DiscordR34App.git
 ```
 
 ***
+
+<p align="center"><a href="configuration-discord.md" class="button secondary">NEXT PAGE</a></p>
