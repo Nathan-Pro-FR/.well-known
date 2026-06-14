@@ -1,30 +1,18 @@
-# Linking a Github Pages Domain to Discord Connections
+# 👋 Bienvenue sur le wiki  DiscordR34App !
 
-You can add your domain to your Discord connections to showcase it on your profile.
+{% hint style="info" icon="lightbulb" %}
+#### **Présentation**
 
-In the case of a GitHub Pages domain, DNS verification sounds unable to do already. therefore, we will verify it using the https (file method).
+Bienvenue dans la documentation officielle de **DiscordR34App**. Cette application Discord moderne s'installe directement sur ton **compte utilisateur** (User App) au lieu d'un bot public.
+{% endhint %}
 
-1. Open Discord and navigate to your user settings by clicking on the gear icon next to your username.
+***
 
-2. In the settings menu, select "Connections."
+### 🌟 Pourquoi c'est cool ?
 
-3. Choose the domain <img src="https://github.com/oyepriyansh/.well-known/assets/83062406/ed6ec647-f3d1-432e-bf00-94afdc4afdff" height="25px">; a pop-up will appear. Enter your GitHub Pages domain name.
+<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><h4> 🌍 </h4><h4><strong>Utilisable partout :</strong> </h4></td><td>Lance la commande dans n'importe quel serveur (même si tu n'es pas administrateur), dans tes messages privés (DMs) ou au sein de tes groupes.</td></tr><tr><td><h4>💳 </h4><h4>100% Gratuit : </h4></td><td>Vous n'aurez absolument pas besoin de sortir votre carte bleue de votre poche ! Tout est entièrement gratuit.</td></tr></tbody></table>
 
-4. Click on "Next," then select "Verify using https."
+***
 
-5. Copy the content provided there, something like `dh=123456abc`.
+➡️ _Passe à la page suivante pour créer ton application sur Discord._
 
-6. [Fork this repository](https://github.com/oyepriyansh/.well-known/fork) (you can also create a new repository).
-
-> [!IMPORTANT]  
-> Do not change the repository name; keep it as `.well-known`.
-
-7. Edit the `discord` file in the root of the repository and replace the content that you've copied in step 5 and Commit the changes.
-
-8. Go to repository settings and enable GitHub Pages for your forked repository.
-
-9. Click on the verify button, and the domain will be added to your Discord profile.
-
---- 
-
-If this guide was helpful, please consider starring this repository. Thank you!
